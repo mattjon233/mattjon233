@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=mattjon233&style=flat-square&color=blue" alt=""></p>
 
-Desenvolvedor Back-End (Estudando para Full Stack) brasileiro! <img src="https://tenor.com/search/brazil-gifs" width="30">
+Desenvolvedor Full Stack brasileiro! <img src="https://tenor.com/search/brazil-gifs" width="30">
 
-- 🔭 Trabalho atualmente na Morphus como Desenvolvedor de Software Júnior I
+- 🔭 Trabalho atualmente na Accenture como Desenvolvedor de Software Júnior I
 - 🌱 Aprendendo Javascript.
 - ⚡ Gosto muito de jogar.
 - ⚡ Amo animais!
