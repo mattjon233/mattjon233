@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 Desenvolvedor Full Stack brasileiro! <img src="https://tenor.com/search/brazil-gifs" width="30">
 
-- 🔭 Trabalho atualmente na Accenture como Desenvolvedor de Software Júnior I
-- 🌱 Aprendendo Javascript.
-- ⚡ Gosto muito de jogar.
-- ⚡ Amo animais!
+- 🔭 Actually working as a Junior Developer in Accenture!
+- 🌱 3-year experience working full-time as a programmer.
+- ⚡ I love animals and i have a little dog named Rocket :D
+- 📫 You can reach me on linkedin https://www.linkedin.com/in/matthews-jones-545733179/
 
 ---
 
